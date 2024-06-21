@@ -7,3 +7,4 @@ google-generativeai==0.1.0
 opencv-python==4.5.5.64
 pytesseract==0.3.10
 translate==3.6.1
+Gunicorn
