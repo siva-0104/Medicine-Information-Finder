@@ -3,7 +3,7 @@ Flask-Cors==3.0.10
 Werkzeug==2.1.1
 pandas==1.4.2
 numpy==1.22.4
-google-generativeai==0.1.0  # Update with the actual package name and version if different
+google-generativeai==0.1.0  
 opencv-python==4.5.5.64
 pytesseract==0.3.10
-translate==3.6.1  # If the 'translate' package is different, update accordingly
+translate==3.6.1
