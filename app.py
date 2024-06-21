@@ -179,5 +179,3 @@ def get_medicine_details():
     else:
         return jsonify({'error': 'Product not found'}), 404
 
-if __name__ == '__main__':
-    app.run(debug=True)
